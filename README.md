@@ -60,8 +60,3 @@ Paso 2
 ```
 ng serve -o
 ```
-
-## Escrito por 👨‍💻
-*GitHub: [Moises Arrona](https://github.com/moisesarrona)*
-ihdsafhsabvdsav
-ihdsagvuhdbvkdsafb
